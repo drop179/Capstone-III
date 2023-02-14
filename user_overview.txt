@@ -1,0 +1,15 @@
+User overview:
+- Total number of users: 3
+- Total number of tasks: 3
+
+User: admin
+- Total number of tasks assigned to admin: 1
+- Percentage of tasks assigned to admin: 33.33%
+
+User: john
+- Total number of tasks assigned to john: 1
+- Percentage of tasks assigned to john: 33.33%
+
+User: sam
+- Total number of tasks assigned to sam: 1
+- Percentage of tasks assigned to sam: 33.33%
